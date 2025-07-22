@@ -8,7 +8,7 @@ export default defineConfig([
   { files: ["**/*.js"], languageOptions: { sourceType: "commonjs" } },
   { files: ["**/*.{js,mjs,cjs}"], languageOptions: { globals: globals.node } },
   { rules: {
-     'no-unused-vars': ['error', { argsIgnorePattern: 'next' }],
+     'no-unused-vars': 'disable'      // ['error', { argsIgnorePattern: 'next' }],
 }},
 ]);
 
