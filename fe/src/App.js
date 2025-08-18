@@ -6,7 +6,7 @@ function App() {
   return (
     <ThemeProvider theme={defaultTheme}>
         <GlobalStyles />
-        <h1>MyContacts</h1>
+        <h1>MyContacts.</h1>
     </ThemeProvider>
   );
 }
