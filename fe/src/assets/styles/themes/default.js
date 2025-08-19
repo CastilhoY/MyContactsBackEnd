@@ -1,3 +1,5 @@
-export default {
-    backgroundColor: '##F6F5FC',
+const defaultTheme =  {
+    backgroundColor: '#F6F5FC',
 };
+
+export default defaultTheme;
