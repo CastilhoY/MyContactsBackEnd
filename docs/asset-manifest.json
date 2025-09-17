@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.562d4764.chunk.css",
+    "main.js": "/static/js/main.92910b30.chunk.js",
+    "main.js.map": "/static/js/main.92910b30.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d52c122d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d52c122d.js.map",
+    "static/js/2.48c9ffe2.chunk.js": "/static/js/2.48c9ffe2.chunk.js",
+    "static/js/2.48c9ffe2.chunk.js.map": "/static/js/2.48c9ffe2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.562d4764.chunk.css.map": "/static/css/main.562d4764.chunk.css.map",
+    "static/js/2.48c9ffe2.chunk.js.LICENSE.txt": "/static/js/2.48c9ffe2.chunk.js.LICENSE.txt",
+    "static/media/arrow.ef8690b9.svg": "/static/media/arrow.ef8690b9.svg",
+    "static/media/edit.cd720684.svg": "/static/media/edit.cd720684.svg",
+    "static/media/empty-box.af4ffcbe.svg": "/static/media/empty-box.af4ffcbe.svg",
+    "static/media/logo.f9814e67.svg": "/static/media/logo.f9814e67.svg",
+    "static/media/magnifier-question.98f183db.svg": "/static/media/magnifier-question.98f183db.svg",
+    "static/media/sad.0d5bb2e9.svg": "/static/media/sad.0d5bb2e9.svg",
+    "static/media/trash.d6d5de5d.svg": "/static/media/trash.d6d5de5d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d52c122d.js",
+    "static/js/2.48c9ffe2.chunk.js",
+    "static/css/main.562d4764.chunk.css",
+    "static/js/main.92910b30.chunk.js"
+  ]
+}
